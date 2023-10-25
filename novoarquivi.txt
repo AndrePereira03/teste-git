@@ -1,0 +1,2 @@
+aqui, criamos um novo arquivo de texto!
+foi adicionada essa linha que deve ser removida
